@@ -1,2 +1,2 @@
 # main_sensor
-Main sensor for mearusing current
+Sensor principal para medición de corriente 
